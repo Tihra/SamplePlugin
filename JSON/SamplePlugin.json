@@ -1,0 +1,24 @@
+{
+  "Author": "Tihra",
+  "Name": "Sample Plugin",
+  "InternalName": "SamplePlugin",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A short one-liner that shows up in /xlplugins.",
+  "AcceptsFeedback": true,
+  
+        "DownloadLinkInstall": "https://github.com/Tihra/SamplePlugin/files/12868681/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Tihra/SamplePlugin/files/12868681/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Tihra/SamplePlugin/files/12868681/latest.zip",
+        "IconUrl": "https://github.com/Tihra/SamplePlugin/blob/65b20d842973cc8c83b9c1fa8f4d0d58f49924d0/Data/goat.png"
